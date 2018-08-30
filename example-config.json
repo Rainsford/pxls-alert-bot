@@ -1,11 +1,11 @@
 {
-  "token": "",
+  "token": "NDg0ODQ3Nzc3NDE1OTU0NDMy.DmoK0w.EGOUHKyYYXvEKIR0-bva2ZHcVus",
   "auto_load": [
     "cogs.pxls"
   ],
   "prefix": "DEF!",
   "owner_id": "",
-  "status": "",
+  "status": "protevting the country",
   "pxls_ws": "wss://pxls.space/ws",
   "pxls_default": "https://pxls.space",
   "preview_radius": 20

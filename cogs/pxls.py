@@ -45,7 +45,7 @@ class Pxls(object):
         self.numbers = self.find_backup("numbers")
         self.mentions = self.find_backup("mentions")
         self.statistics = self.find_backup("statistics")
-        # statistics are server_id:(harmful users, helpful users, harmful pixels, helpful pixels)
+        ## statistics are server_id:(harmful users, helpful users, harmful pixels, helpful pixels)
 
         self.spectator = self.bot.loop.create_task(self.task_pxls_spectator())
         self.time_based = self.bot.loop.create_task(self.task_5seconds())
