@@ -3,7 +3,7 @@
   "auto_load": [
     "cogs.pxls"
   ],
-  "prefix": "px!",
+  "prefix": "DEF!",
   "owner_id": "",
   "status": "",
   "pxls_ws": "wss://pxls.space/ws",
