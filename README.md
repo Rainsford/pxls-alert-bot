@@ -1,4 +1,2 @@
-# pxls-alert-bot
-Repository for the pxls-alert-bot
-
-# Dead, look for some other bot
+# currently in development/refurbashment. 
+# all credit for original code goes to LittleEndu
